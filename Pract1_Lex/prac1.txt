@@ -1,0 +1,5 @@
+int n=10;
+while(i>0){
+print("Roll no: %d", &n);
+i--;
+}

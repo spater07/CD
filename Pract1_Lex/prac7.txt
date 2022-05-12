@@ -1,0 +1,25 @@
+Ram Infosys Male 8.7 IT 600000 ram@gmail.com 1234567890 
+Sham TCS Male 8.3 CSE 800000 sham@gmail.com 2345678901 
+Suresh Informatica EC Male 8.1 700000 suresh@gmail.com 3456789012 
+Mahesh wipro Male CSE 7.9 750000 mahesh@gmail.com 4567890123 R
+amesh Accenture CSE Male 7.7 710000 ramesh@gmail.com. 5678901234 
+Rahul TCS Male CSE 8.2 700000 rahul@gmail.com 6789012345 
+Karan TCS Male IT 8.2 700000 karan@gmail.com 7890123456
+Arjun Wipro EC Male 8.7 800000 arjun@gmail.com 8901234567 
+Omkar Accenture EC Male 8.1 500000 omkar@gmail.com 9012345678 
+varad Informatica IT Male 7.7 900000 varad@gmail.com 0123456789 
+Param Wipro Male CSE 8.7 900000 param@gmail.com 0987654321 
+Kadam Accenture Male EC 9.0 890000 kadam@gmail.com 9786543210 
+Krupa Wipro Female CSE 9.3 800000 krupa@gmail.com 7890654321 
+Surbhi Accenture Female CSE 9.7 1000000 surbhi@gmail.com 6789054321 
+Renuka Infosys Female 8.7 IT 600000 renuka@gmail.com 9876543210 
+Shatakshi TCS Female 8.3 CSE 800000 shatakshi@gmail.com 8765432109 
+sandhya Informatica Female 8.1 IT 700000 sandhya@gmail.com 7654321098 
+Najsi wipro Female 7.9 CSE 750000 rajsi@gmail.com 6543210987 
+Anagha Accenture Female 7.7 CSE 710000 anagha@gmail.com 5432109876 
+Kanchan TCS Female B.2 IT 700000 kanchan@gmail.com 4321098765 
+Ruchi TCS Female 8.2 EC 700000 ruchi@gmail.com 3210987654 
+Rohini Wipro Female 8.7 EC 80000e robini@gmail.com 2109876543 
+Surekha Accenture Female #.1 CSE 500000 surekha@gmail.com 1698765432 
+Archana Informatica Female 7.7 CSE 900000 archana@gmail.com 8987654321 
+Rutuja Wipro Female 8.7 CSE 900000 rutuja@gl11.com 2914567890

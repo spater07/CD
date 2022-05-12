@@ -1,0 +1,15 @@
+<p>This is a paragraph! </p>
+</br>
+<ol>Shopping list
+<li>Bread</li>
+<li>Butter</li>
+<li>Magnets</li>
+<li>Paint Brush</li>
+</ol>
+</br>
+<ul>TODO list
+<li>Call customer care</li>
+<li>Collect parcel</li>
+<li>Download Virtual Box</li>
+<li>Draft Tasks</li>
+</ul>
